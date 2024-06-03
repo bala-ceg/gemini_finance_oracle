@@ -1,0 +1,12 @@
+python-dotenv
+streamlit
+google-cloud-aiplatform
+yfinance
+pandas
+GoogleNews
+matplotlib
+numpy
+streamlit-echarts
+google-cloud-storage
+fpdf
+
